@@ -27,7 +27,7 @@ This is an exemple of use (3 keywords followed by two subreddits):
 
 This is another example: (1 keyword followed by three subreddits):
 
-```python3 scrape.py "2024, 1, 1" "2024, 3, 1" "en" 1 depression Confession TrueReddit```
+```python3 scrape.py "2024, 1, 1" "2024, 3, 1" "en" 1 depression Confession TrueReddit news```
 
 ## Output
 

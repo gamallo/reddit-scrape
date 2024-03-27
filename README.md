@@ -5,7 +5,7 @@ Scraping posts from Reddit by using API credentials
 
 ## Requeriments:
 * Python modules: praw datetime langid (use `pip install`)
-* You are required to be registered at Reddit and have Reddit API credentials: client_id = <CLIENT_ID>, client_secret = <CLIENT_SECRET>, username = <USER_NAME>, password = <PASSW>, user_agent = <USER_AGENT>. For this purpose, go to www.reddit.com/prefs/apps (create another app)
+* You are required to be registered at Reddit and have Reddit API credentials: client_id = <CLIENT_ID>, client_secret = <CLIENT_SECRET>, username = <USER_NAME>, password = <PASSWORD>, user_agent = <USER_AGENT>. For this purpose, go to www.reddit.com/prefs/apps (create another app)
 
 ## How to use:
 

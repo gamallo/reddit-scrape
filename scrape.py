@@ -18,7 +18,8 @@ def main():
                          username=username,
                          password=password,
                          user_agent=user_agent)
-
+    
+    ###The five arguments of the function:
     start = sys.argv[1]
     end =  sys.argv[2]
     lang = sys.argv[3]

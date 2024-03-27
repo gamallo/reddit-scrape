@@ -1,6 +1,6 @@
 # reddit-scrape
 
-Scraping posts from Reddits by using API credentials
+Scraping posts from Reddit by using API credentials
 
 
 ## Requeriments:

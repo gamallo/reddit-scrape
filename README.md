@@ -17,9 +17,9 @@ Scraping posts from Reddit by using API credentials
 
 3. Language: for instance "en"
 
-4. A list of keywords. This is an open argument: it starts by an integer referring to the number of keywords you whish to use, following for the keywords. For instance: 3 trump biden putin.
+4. A list of keywords. This is an open argument: it starts by an integer referring to the number of keywords you whish to use, following by the keywords. For instance: `3 trump biden putin`.
 
-5. A list of subreddits. This is also an open argument: you can put all the names you whish. For instance: news worlnews politics TrueReddit Confession
+5. A list of subreddits. This is also an open argument: you can put all the names you whish. For instance: `news worlnews politics TrueReddit Confession`
 
 This is an exemple of use (3 keywords followed by two subreddits):
 
